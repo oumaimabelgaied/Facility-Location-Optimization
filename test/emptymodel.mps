@@ -1,0 +1,7 @@
+NAME My First Model
+ROWS
+ N  OBJ
+COLUMNS
+RHS
+BOUNDS
+ENDATA
